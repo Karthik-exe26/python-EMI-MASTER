@@ -1,0 +1,8 @@
+Input & Validation(validate_inputs())
+EMI Calculation(compute_emi())
+Loan Management(uses loan class)
+Prepayment Simulation
+Amortization Analysis(uses pandas)
+File Storage (CSV)
+User Interface(main)
+Visualization (Matplotlib Graphs)
